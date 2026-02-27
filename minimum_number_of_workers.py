@@ -10,6 +10,7 @@ class Solution:
                 intervals.append((start, end))
 
         intervals.sort()
+        
 
         count = 0
         i = 0
